@@ -4,7 +4,7 @@ export default function Home() {
   return (
     // everything in nextjs is a server component unless we declare it as client
     <main className={styles.main}>
-      <h1>next js start </h1>
+      <h1>next js start 2024 </h1>
 
       {/* nested routes */}
       {/* app folder ka andar kpoi bhi folder create krenge to vo ek route bn jaega  */}
